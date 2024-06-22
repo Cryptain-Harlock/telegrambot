@@ -6,3 +6,23 @@ Use this token to access the HTTP API:
 Keep your token secure and store it safely, it can be used by anyone to control your bot.
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+from:  BBURQH3QxNt5bjCojTeXZbnL1FgFQBKvRQS31B1Czqwx
+The secret key is:  Uint8Array(64) [
+  168,   8, 160, 100,  54,  93, 145, 243, 201,  23, 190,
+  135, 210, 160, 172, 211, 219,  75, 208, 176, 213, 210,
+   58,  26, 184, 152, 106,  65,  89, 227, 121,  77, 151,
+   67, 174, 155,   0, 168, 145, 199, 149,  96,  59,  16,
+  100, 246,  58, 156, 229, 142, 149, 198,  74, 149,   4,
+   25, 157,  65, 107,  69,  59, 221,  92,  75
+]
+
+to:    2576jwHGzwQoAbjSWPf58Dpj6zyXn8QpJj2kehxhiQ8z
+The secret key is:  Uint8Array(64) [
+  144,  15, 220,  29, 147, 143,  33, 145,  68,   9,  92,
+  214, 110,  26, 100, 244, 248, 208, 145,  70, 249, 250,
+  144, 174,  32, 169, 147,  63,  59,  17, 252, 106,  15,
+  232, 232,   2, 163, 215,  10,  47, 149,  20, 110,  25,
+  177, 151,  85, 140,  55, 103, 198, 163, 122,  71,   1,
+   77,  27, 122,  62,  65, 165, 233,  19, 211
+]
