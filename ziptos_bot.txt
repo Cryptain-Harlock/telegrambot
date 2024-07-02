@@ -7,22 +7,30 @@ Keep your token secure and store it safely, it can be used by anyone to control 
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
-from:  BBURQH3QxNt5bjCojTeXZbnL1FgFQBKvRQS31B1Czqwx
-The secret key is:  Uint8Array(64) [
-  168,   8, 160, 100,  54,  93, 145, 243, 201,  23, 190,
-  135, 210, 160, 172, 211, 219,  75, 208, 176, 213, 210,
-   58,  26, 184, 152, 106,  65,  89, 227, 121,  77, 151,
-   67, 174, 155,   0, 168, 145, 199, 149,  96,  59,  16,
-  100, 246,  58, 156, 229, 142, 149, 198,  74, 149,   4,
-   25, 157,  65, 107,  69,  59, 221,  92,  75
+
+
+
+Token Mint Address1: JCUFwpfs5DaEzvnjWLH1VQvW9zWFXGf5iAcKgJdAVzyp
+Token Mint Address2: 88qXCeGtTSwyFUJDCLPsKXXMqhwBBecU2nzNVpH9wMjc
+address_1
+GUvTYKX4oh7kKqCXtsCvZAr8JuogpC5PGSdXRtCRUEpz
+Uint8Array(64) [
+  168,  17,  57,  60, 243, 244, 194, 225, 221, 139, 142,
+   83, 228,  66, 163,  65, 232, 159,  81, 137, 182,  31,
+  204,  15, 114,  60, 124, 146, 136, 240,  16, 110, 230,
+    6, 110,  48,  93, 130,  89,  39, 144, 251,  99,  49,
+  223, 244,  41, 103, 228,  36, 240,  23,  39, 176,  97,
+   44,   9, 254, 197,   9,  46, 167, 188,  11
+]
+address_2
+CuXgVgdPGus7RRRSdFCRebhgiuNh2Yf6DgFZmrr8o7uy
+Uint8Array(64) [
+  164, 217,  16, 181,  93, 247, 141, 158, 250,  98,  90,
+   17,  20,  73,  53, 170, 151, 113, 246, 198,  25,  18,
+  166, 179, 228,   6,  65, 103, 230, 221, 236, 119, 176,
+  229, 115,   6,  21, 164,   4, 164, 138,  98, 114,  16,
+   54, 221, 144,  51, 143,   7, 177, 159,  60,  89, 158,
+  165,  79, 230,   8, 167, 201,  63, 229,  88
 ]
 
-to:    2576jwHGzwQoAbjSWPf58Dpj6zyXn8QpJj2kehxhiQ8z
-The secret key is:  Uint8Array(64) [
-  144,  15, 220,  29, 147, 143,  33, 145,  68,   9,  92,
-  214, 110,  26, 100, 244, 248, 208, 145,  70, 249, 250,
-  144, 174,  32, 169, 147,  63,  59,  17, 252, 106,  15,
-  232, 232,   2, 163, 215,  10,  47, 149,  20, 110,  25,
-  177, 151,  85, 140,  55, 103, 198, 163, 122,  71,   1,
-   77,  27, 122,  62,  65, 165, 233,  19, 211
-]
+TokenMintAccount1: CguhZG2R6XkAHAc5T69wqW2qXtumRgn1jTJ6gtVCNYxw
